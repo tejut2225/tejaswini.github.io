@@ -27,6 +27,6 @@ Email: tejut2225gmail.com
 GitHub: https://github.com/tejut2225/tejaswini.github.io
 
 Live Demo
-https://github.com/tejut2225/tejaswini.github.io
+ https://tejut2225.github.io/tejaswini.github.io/
 
 
