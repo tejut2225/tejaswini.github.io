@@ -23,7 +23,7 @@ Portfolio Website – Personal website built with HTML & CSS, hosted on GitHub P
 
 CONTACT:
 
-Email: tejut2225@examplegmail.com
+Email: tejut2225gmail.com
 GitHub: https://github.com/tejut2225/tejaswini.github.io
 
 Live Demo
