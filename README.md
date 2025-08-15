@@ -9,9 +9,9 @@ I am a Computer Science student passionate about Java, Web Development, and prob
 SKILLS:
 
 Programming Languages: Java, JavaScript, PHP
-Web Development: HTML, CSS
-Database: SQL
-Tools & Version Control: Git, GitHub
+-Web Development: HTML, CSS
+-Database: SQL
+-Tools & Version Control: Git, GitHub
  
 
 
