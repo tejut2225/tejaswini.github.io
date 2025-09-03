@@ -17,7 +17,6 @@ Programming Languages: Java, JavaScript, PHP
 
 PROJECTS:
 
-Circle Parameter Finder – Java program to calculate the circumference and area of a circle.
 Portfolio Website – Personal website built with HTML & CSS, hosted on GitHub Pages.
 
 
